@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+settings.py
+sun-color-icon.png
+weather-icon.png
+*.log
+.venv
